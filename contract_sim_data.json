@@ -1,0 +1,61 @@
+{
+    "balance": 28.0,
+    "active_trades": [],
+    "trade_history": [
+        {
+            "id": 1779789303,
+            "symbol": "BTC",
+            "direction": "看涨",
+            "strike_price": 76673.82,
+            "amount": 5.0,
+            "payout_ratio": 0.8,
+            "order_time": "2026-05-26 17:55:03",
+            "expiry_time": "2026-05-26 18:00:03",
+            "status": "已结算",
+            "settle_price": 76650.01,
+            "result": "亏损 -5.00 USDT",
+            "pnl": -5.0
+        },
+        {
+            "id": 1779789208,
+            "symbol": "BTC",
+            "direction": "看涨",
+            "strike_price": 76660.16,
+            "amount": 5.0,
+            "payout_ratio": 0.8,
+            "order_time": "2026-05-26 17:53:28",
+            "expiry_time": "2026-05-26 17:58:28",
+            "status": "已结算",
+            "settle_price": 76676.49,
+            "result": "盈利 +4.00 USDT",
+            "pnl": 4.0
+        },
+        {
+            "id": 1779789161,
+            "symbol": "BTC",
+            "direction": "看涨",
+            "strike_price": 76672.98,
+            "amount": 5.0,
+            "payout_ratio": 0.8,
+            "order_time": "2026-05-26 17:52:41",
+            "expiry_time": "2026-05-26 17:57:41",
+            "status": "已结算",
+            "settle_price": 76678.07,
+            "result": "盈利 +4.00 USDT",
+            "pnl": 4.0
+        },
+        {
+            "id": 1779788720,
+            "symbol": "BTC",
+            "direction": "看涨",
+            "strike_price": 76699.85,
+            "amount": 5.0,
+            "payout_ratio": 0.8,
+            "order_time": "2026-05-26 17:45:20",
+            "expiry_time": "2026-05-26 17:50:20",
+            "status": "已结算",
+            "settle_price": 76655.86,
+            "result": "亏损 -5.00 USDT"
+        }
+    ]
+}
